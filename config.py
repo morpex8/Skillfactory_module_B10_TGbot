@@ -1,5 +1,5 @@
-TOKEN = "6025972205:AAHm3voDF5oW027fAhRgjuKUUUIz-IYPcHM"
-API_KEY = 'WrhIbEPUz0Cj837vbaxjTQodFabC50FR' #apilayer
+TOKEN = "Your token Tg"
+API_KEY = 'Your Api key' #apilayer
 keys = {'Доллар': 'USD',
         'Евро': 'EUR',
         'Рубль': 'RUB',
